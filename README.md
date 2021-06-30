@@ -3,7 +3,7 @@
 Thank you Everyone for helping to develop this one🦋 <BR>
 Join Whatsapp Group For Support 
 # ʙ⭕ᴛ ᴢᴏɴᴇ | ᴘᴜʙʟɪᴄ
-### https://chat.whatsapp.com/H0v1Idna7hA8dWBa88QPvw
+### 
 
 ## Thanks for Everything 
 ### We will always remember you..
@@ -19,7 +19,7 @@ Join Whatsapp Group For Support
 Repl.it is less stable. Try Termux instead for qrcode generation.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol.git:/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/https:/barroz345/ANIME-MWOLU.git:/)
 
 ### The Hard Method
 ```js
@@ -27,7 +27,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/PublicBot
+$ git clone https://github.com/barroz345
 $ cd PublicBot
 $ chmod +x *
 $ npm install @adiwajshing/baileys

@@ -35,7 +35,7 @@ $ npm install chalk
 $ node qr.js
 
 SETUP
-$ git clone https://github.com/farhan-dqz/PublicBot
+$ git clone https://github.com/barroz345/PublicBot
 $ cd PublicBot
 $ chmod +x *
 $ npm i
